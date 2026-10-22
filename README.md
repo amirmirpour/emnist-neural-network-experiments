@@ -65,9 +65,8 @@ These results are observations from individual runs, not guaranteed outcomes. Ra
 ## How to Run
 
 1. Clone or download this repository.
-2. Install the dependencies listed in `requirements.txt`.
-3. Open either notebook in Jupyter Notebook or Visual Studio Code.
-4. Run the cells from top to bottom.
+2. Open either notebook in Jupyter Notebook or Visual Studio Code.
+3. Run the cells from top to bottom.
 
 The EMNIST dataset is downloaded automatically when the notebooks are run.
 
