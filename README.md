@@ -38,7 +38,7 @@ The CNN experiments progressively test:
 - Global Average Pooling
 - Multi-layer convolutional blocks
 
-Notebook: [`emnist_cnn_experiments.ipynb`](notebooks/emnist_cnn_experiments.ipynb)
+Notebook: [`EMNIST_CNN_Architecture_Experiments.ipynb`](notebooks/EMNIST_CNN_Architecture_Experiments.ipynb)
 
 ## Results
 
