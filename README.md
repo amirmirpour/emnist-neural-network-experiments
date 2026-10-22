@@ -23,7 +23,7 @@ The dataset is downloaded automatically by the notebooks using `torchvision.data
 
 The MLP experiments investigate how network size, batch normalization, dropout, and optimizer settings affect performance.
 
-Notebook: [`emnist_mlp_experiments.ipynb`](notebooks/emnist_mlp_experiments.ipynb)
+Notebook: [`EMNIST_MLP_Architecture_Experiments.ipynb`](notebooks/EMNIST_MLP_Architecture_Experiments.ipynb)
 
 ### 2. Convolutional Neural Networks (CNNs)
 
